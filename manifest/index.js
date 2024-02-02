@@ -1,0 +1,20 @@
+module.exports = {
+  campaign: require('./campaign'),
+  cart: require('./cart'),
+  cms: require('./cms'),
+  components: require('./components'),
+  channel: require('./channel'),
+  copilotGraphql: require('./copilot-graphql'),
+  graphql: require('./graphql'),
+  identity: require('./identity'),
+  inventory: require('./inventory'),
+  item: require('./item'),
+  atomic: require('./atomic'),
+  offer: require('./offer'),
+  order: require('./order'),
+  pim: require('./pim'),
+  search: require('./search'),
+  shipping: require('./shipping'),
+  web: require('./web'),
+  mfinventory: require('./mfinventory')
+}
